@@ -6,6 +6,7 @@ Run "restore_urls.app" to open saved URLs to Safari.
 
 Run "archive_saved_urls.app" to copy the currently saved URLs to a dated text file within the "archives" directory.
 
+Run "search_windows.app" to search the currently opened window titles for specific text. This is handy if you have a lot of windows/tabs open.
 
 Contributions : 
 
