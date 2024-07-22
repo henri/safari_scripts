@@ -1,3 +1,6 @@
+Note
+=====
+This is very old. I have not tested in over 13 years. If it works, please let me know. Use at your own risk!
 
 
 Usage
